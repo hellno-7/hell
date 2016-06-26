@@ -119,7 +119,7 @@ implements ActionListener
 	}
 	public static void main(String args[])
 	{
-		new Cal();
+		Cal();
 		System.out.println("Hello World");
 		System.out.println("Hello World");
 	}
