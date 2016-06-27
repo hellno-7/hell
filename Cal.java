@@ -117,10 +117,4 @@ implements ActionListener
 			t1.setText("");
 		}
 	}
-	public static void main(String args[])
-	{
-		Cal();
-		System.out.println("Hello World");
-		System.out.println("Hello World");
-	}
 }
