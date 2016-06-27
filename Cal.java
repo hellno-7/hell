@@ -6,6 +6,8 @@ import java.applet.*;
 <applet code="Cal" width=300 height=300>
 </applet>
 */
+<applet code="Cal" width=300 height=300>
+</applet>
  
 public class Cal extends Applet
 implements ActionListener
