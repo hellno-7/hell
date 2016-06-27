@@ -120,9 +120,5 @@ implements ActionListener
 		{
 			t1.setText("");
 		}
-		if(str.equals("clear"))
-		{
-			t1.setText("");
-		}
 	}
 }
